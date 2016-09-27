@@ -23,3 +23,4 @@
 //{
 //    return;
 //}
+LIBRARY_API void zmenpismena();

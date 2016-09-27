@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Application, Configuration: Debug x64 ------
+1>  Application.cpp
+1>c:\users\stdn09\source\repos\console\application\application.cpp(31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+1>  Application.vcxproj -> C:\Users\stdn09\Source\Repos\Console\Application\x64\Debug\Application.exe
+1>  Application.vcxproj -> C:\Users\stdn09\Source\Repos\Console\Application\x64\Debug\Application.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
