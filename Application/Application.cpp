@@ -21,7 +21,7 @@ void DisplayUsage( char * appPath)
 
 int main(int argc, char **argv)
 {
-	int c;
+	int c; //hi
 
 	if (argc == 1)
 	{
